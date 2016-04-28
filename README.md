@@ -1,2 +1,3 @@
 # Hello-World
-Neww repositotry
+New repositotry
+corrected spelling 
